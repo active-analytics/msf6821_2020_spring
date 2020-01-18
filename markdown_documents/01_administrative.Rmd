@@ -4,3 +4,35 @@ output: github_document
 ---
 
 This document is for tracking adminsitrative details.
+
+
+## Contact Information
+
+**Phone**
+Pritam Dalal - 206.802.5525
+Arthur Zhong - 303-725-4930
+Weizhong Yao -
+Miao Zuo -
+Zixuan Zhao - 218-721-6277
+dong0195 - 
+
+**Email**
+Pritam Dalal - pritam@umn.edu
+Patrick Reed - PReed@varde.com
+Arthur Zhong - zhong407@umn.edu
+Weizhong Yao - yao00135@umn.edu
+Miao Zuo - zuo00024@umn.edu
+Zixuan Zhao - zhao1251@umn.edu
+dong0195 - dong0195@umn.edu
+
+
+## Kickoff Meeting
+I know that some you have will be unable to attend, and that is fine.  If you are able to attend, please be on time and dress in business casual (shirt with a collar, dress pants, no jeans, and no sneakers).
+
+Date: Friday 1/24
+Time: 1p-2p
+Attire: business casual
+Location: 901 Marquette Ave S
+          33rd Floor - Suite 3300
+          Minneapolis, MN 55402
+          952-893-1554
