@@ -3,36 +3,46 @@ title: "01 - Administrative"
 output: github_document
 ---
 
-This document is for tracking adminsitrative details.
+This document is for tracking administrative, and organizational details.
+
+
+## Kickoff Meeting
+
+I know that some you have will be unable to attend, and that is fine. If
+you are able to attend, please be on time and dress in business casual
+(shirt with a collar, dress pants, leather shoes - please no jeans, and
+no sneakers).
+
+**We will meet in the lobby at 12:45p and enter in as a group.**
+
+**Date:** Friday 1/24 <br>
+**Time:** 1p-2p <br> 
+**Attire:** business casual
+
+**Address:** <br>
+901 Marquette Ave S <br>
+33rd Floor - Suite 3300 <br>
+Minneapolis, MN 55402 <br>
+952-893-1554 <br>
 
 
 ## Contact Information
 
-**Phone**
-Pritam Dalal - 206.802.5525
-Arthur Zhong - 303-725-4930
-Weizhong Yao -
-Miao Zuo -
-Zixuan Zhao - 218-721-6277
-dong0195 - 
+**Phone** <br>
+Prtam Dalal - 206.802.5525 <br>
+Arthur Zhong - 303-725-4930 <br>
+Weizhong Yao - <br>
+Miao Zuo - <br>
+Zixuan Zhao - 218-721-6277 <br>
+dong0195 -  <br>
 
-**Email**
-Pritam Dalal - pritam@umn.edu
-Patrick Reed - PReed@varde.com
-Arthur Zhong - zhong407@umn.edu
-Weizhong Yao - yao00135@umn.edu
-Miao Zuo - zuo00024@umn.edu
-Zixuan Zhao - zhao1251@umn.edu
-dong0195 - dong0195@umn.edu
+**Email** <br>
+Pritam Dalal - pritam@umn.edu <br>
+Patrick Reed - PReed@varde.com <br>
+Arthur Zhong - zhong407@umn.edu <br>
+Weizhong Yao - yao00135@umn.edu <br>
+Miao Zuo - zuo00024@umn.edu <br>
+Zixuan Zhao - zhao1251@umn.edu <br>
+dong0195 - dong0195@umn.edu <br>
 
 
-## Kickoff Meeting
-I know that some you have will be unable to attend, and that is fine.  If you are able to attend, please be on time and dress in business casual (shirt with a collar, dress pants, no jeans, and no sneakers).
-
-Date: Friday 1/24
-Time: 1p-2p
-Attire: business casual
-Location: 901 Marquette Ave S
-          33rd Floor - Suite 3300
-          Minneapolis, MN 55402
-          952-893-1554
