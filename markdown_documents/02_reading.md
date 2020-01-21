@@ -1,10 +1,14 @@
 02 - Reading
 ================
 
-## Articles from Patrick
+This page will contain relevant reading material for the project.
 
-Here are some articles that Patrick put together for you to read.  The first one
-is particularly indicative of the kind of analysis Patrick would like to see from us.
+## Articles from Patrick (1/20/2020)
+
+Here are some articles that Patrick put together for you to read. The
+first one is particularly indicative of the kind of analysis Patrick
+would like to see from
+us.
 
 <https://www.reit.com/news/blog/market-commentary/reit-performance-under-different-macro-conditions>
 
