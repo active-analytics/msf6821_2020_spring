@@ -3,8 +3,8 @@
 
 ## Articles from Patrick
 
-Here are some articles that Patrick put together for you to
-read.
+Here are some articles that Patrick put together for you to read.  The first one
+is particularly indicative of the kind of analysis Patrick would like to see from us.
 
 <https://www.reit.com/news/blog/market-commentary/reit-performance-under-different-macro-conditions>
 
