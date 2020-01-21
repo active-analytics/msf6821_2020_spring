@@ -9,4 +9,4 @@ This is the repository for the Spring 2020 MSF 6821 project.
 
 [Data Sets](https://github.com/active_analytics/msf6821_2020_spring/tree/master/data_sets) - small starter data sets; larger data sets will most likely be stored elsewhere.
 
-[Python Training](https://pritamdalal.github.io/fm5990_2019_fall_site/)
+[Python Training](https://pritamdalal.github.io/fm5990_2019_fall_site/) - if you require more training on Python, you can work through the tutorials from my course.  Feel free to reach out to me with questions.
