@@ -22,8 +22,8 @@ Minneapolis, MN 55402 <br> 952-893-1554 <br>
 ## Contact Information
 
 **Phone** <br> Prtam Dalal - 206.802.5525 <br> Arthur Zhong -
-303-725-4930 <br> Weizhong Yao - <br> Miao Zuo - <br> Zixuan Zhao -
-218-721-6277 <br> dong0195 - <br>
+303-725-4930 <br> Weizhong Yao - <br> Miao Zuo - 612-707-0424 <br>
+Zixuan Zhao - 218-721-6277 <br> Jiaqi (Ki) Dong - 612-517-9167 <br>
 
 **Email** <br> Pritam Dalal - <pritam@umn.edu> <br> Patrick Reed -
 <PReed@varde.com> <br> Arthur Zhong - <zhong407@umn.edu> <br> Weizhong
