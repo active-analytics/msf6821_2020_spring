@@ -1,5 +1,5 @@
 ---
-title: "02 - Reading"
+title: "Reading"
 output: github_document
 ---
 

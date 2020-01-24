@@ -1,4 +1,4 @@
-02 - Reading
+Reading
 ================
 
 This page will contain relevant reading material for the project.

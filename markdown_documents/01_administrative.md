@@ -1,4 +1,4 @@
-01 - Administrative
+Administrative
 ================
 
 This document is for tracking administrative, and organizational

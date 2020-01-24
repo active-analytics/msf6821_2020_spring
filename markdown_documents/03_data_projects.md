@@ -1,5 +1,5 @@
-01 - Data Projects
-==================
+Data Projects
+================
 
 This page contains a variety of small data projects. They should be
 considered as important initial steps in the final analysis that you
